@@ -1,0 +1,7 @@
+Django==4.0
+Pillow
+numpy
+pandas
+openai==0.28
+python-dotenv
+jupyter
